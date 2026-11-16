@@ -1,1 +1,1 @@
-# base64zhuanhuanqi
+py文件需要使用cmd或者powershell打开，exe可直接打开
